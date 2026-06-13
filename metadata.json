@@ -1,0 +1,6 @@
+{
+  "name": "Apartment Maintenance Manager",
+  "description": "A comprehensive maintenance complaint management system for apartment complexes, featuring resident reporting, AI-powered diagnostic advice, status tracking, technician scheduling, and real-time portal notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
